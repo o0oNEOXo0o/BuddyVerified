@@ -3,7 +3,7 @@ Contributors: modemlooper
 Tags: buddypress, members, profile, spam, moderation, verified
 Requires at least: WordPress 4.4 and BuddyPress 2.4
 Tested up to: 4.7.1
-Stable tag: 2.4.1
+Stable tag: 2.4.2
 
 Allows admins to specify verified accounts. Adds a badge to verified usernames.
 
@@ -28,6 +28,9 @@ Allows admins to specify verified accounts. Adds a badge to verified usernames.
 
 
 == Changelog ==
+= 2.4.2=
+change placement of avatar help fix weird display issues with custom css
+
 = 2.4.1 =
 remove old files fixes duplicate function error
 
